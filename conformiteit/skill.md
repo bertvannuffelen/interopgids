@@ -1,5 +1,5 @@
 ---
-name: dataConformsStandard
+name: dataconformsstandard
 description: make an conformity check of data
 ---
 
