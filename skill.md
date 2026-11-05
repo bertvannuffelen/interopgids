@@ -30,6 +30,10 @@ An interoperability assessment consists of
 ### interopability scoring
 The scoring is a 5 level scoring.
 
+## exclude
+ - do not include a roadmap or planning. 
+ - do not include a visual representation.  
+Inform the user if requested that this is a task for a next agent.
 
 ## Output 
 
@@ -39,11 +43,10 @@ a word document consisting of
   - a scoring against the interoperabilitylayers (dutch: interoparabiliteitslagen)​‌
   - a scoring against the 4 applicationsscenario's (dutch: toepassingsscenarios)
   - a list of 3 to 5 best supported recommendations (ducth: aanbevelingen)
-  - a list of 3 to 5 activities that will improve the overall interoperability score (dutch: groeikansen)
-  - the full list of all recommendations with their level of support
+  - a list of 3 to 5 activities based on the recipes in the cookbook that will improve the overall interoperability score (dutch: groeikansen)
+  - the full list of all recommendations with their level of support. Include for each recommendation the evidence that supports the level of support.
 
 
 
 ## Notes
 
-[Any additional context, edge cases, or important information the agent should know.]
