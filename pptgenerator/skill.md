@@ -23,6 +23,16 @@ creation of a powerpoint accoring to a styleguide
 3. The slide deck uses one style for all slides. If the background knowledge offers multiple styles in the template, pick one.
 4. the filename is timestamped because the agent might be used to generate multiple versions of the same content.
 
+### styling
+
+USE exactly the slides from the provided template deck as is for
+   1. the title slide
+   2. the thank you slide
+
+USE for the content slide a base slide from the template deck (typical of the form a title + empty content).
+The content in the content slides can be created used the power of the powerpoint creation instructions. 
+Here there is more freedom to not use the provide slide styling.
+
 ### language 
 1. be to the point
 2. avoid long, comma separated enumerations
