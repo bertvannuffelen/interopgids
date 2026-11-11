@@ -63,7 +63,7 @@ Step 2: create an aggregated recommendation support score.
 2. Calculate the average recommendation score for each application scenario.
 
 Step 3: combined score
-The application scenario score is the weighted aggregate: 0,35 * generic basic score + 0,65 * aggregated recommendation score / 2, for each application scenario. 
+The application scenario score is the weighted aggregate =  (0,35 * its generic basic score + 0,65 * its aggregated recommendation score ) / 2. 
 
 The combined score is the Application Scenario score.
 
@@ -85,7 +85,7 @@ Step 2: create an aggregated recommendation support score.
 2. Calculate the average recommendation score for each interoperability layer.
 
 Step 3: combined score
-The interoperability layer score is the weighted aggregate: 0,35 * generic basic score + 0,65 * aggregated recommendation score / 2, for each interoperability layer. 
+The interoperability layer score is the weighted aggregate: (0,35 * its generic basic score + 0,65 * its aggregated recommendation score ) / 2. 
 
 The combined score is the Interoperability layer score.
 
@@ -107,7 +107,7 @@ Step 2: create an aggregated recommendation support score.
 2. Calculate the average recommendation score for each principle.
 
 Step 3: combined score
-The principle score is the weighted aggregate: 0,40 * generic basic score + 0,60 * aggregated recommendation score / 2, for each principle. 
+The principle score is the weighted aggregate: (0,40 * its generic basic score + 0,60 * its aggregated recommendation score )/ 2. 
 
 The combined score is the principle score.
 
