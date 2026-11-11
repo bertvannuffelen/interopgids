@@ -25,12 +25,14 @@ An interoperability assessment consists of
 
 1. use the self-assessment questionnaire to create an initial basis of the assessment
 2. use the recommendations to find motivations or indications for support of the principles, interoperabilitylayers and applicationsscenario's.
+   
    2.1. first perform the recommendation scoring on all recommendations
    2.2. record for each recommendations the support found
    2.3. perform the application scenario scoring
    2.4. perform the interoperability layer scoring
    2.5. perform the principles scoring
-3. use the cookbook to identify existing recipes to detect improvement activities
+  
+4. use the cookbook to identify existing recipes to detect improvement activities
 
 ## interoperability scoring
 
