@@ -54,7 +54,7 @@ Step 1: create a generic basic score.
 2. A strong or explicit presence scores is 4
 3. A moderate presence scores 3
 4. limited or no indication scores 1
-For scores higher than 2, when the scoring is equal, compare the support and reduce the one with the least support with 0.5.  
+5. Compare the assigned scores, and apply the following rule when applicable: For scores higher than 2, when the scoring is equal, compare the support and reduce the one with the least support with 0.5.  
  
 
 Step 2: create an aggregated recommendation support score.
@@ -63,7 +63,7 @@ Step 2: create an aggregated recommendation support score.
 2. Calculate the average recommendation score for each application scenario.
 
 Step 3: combined score
-The application scenario score is the weighted aggregate =  (0,35 * its generic basic score + 0,65 * its aggregated recommendation score ) / 2. 
+The application scenario score is the weighted aggregate =  (0,35 * its generic basic score + 0,65 * its aggregated recommendation score ). 
 
 The combined score is the Application Scenario score.
 
@@ -85,7 +85,7 @@ Step 2: create an aggregated recommendation support score.
 2. Calculate the average recommendation score for each interoperability layer.
 
 Step 3: combined score
-The interoperability layer score is the weighted aggregate: (0,35 * its generic basic score + 0,65 * its aggregated recommendation score ) / 2. 
+The interoperability layer score is the weighted aggregate: (0,35 * its generic basic score + 0,65 * its aggregated recommendation score ). 
 
 The combined score is the Interoperability layer score.
 
@@ -107,7 +107,7 @@ Step 2: create an aggregated recommendation support score.
 2. Calculate the average recommendation score for each principle.
 
 Step 3: combined score
-The principle score is the weighted aggregate: (0,40 * its generic basic score + 0,60 * its aggregated recommendation score )/ 2. 
+The principle score is the weighted aggregate: (0,40 * its generic basic score + 0,60 * its aggregated recommendation score ). 
 
 The combined score is the principle score.
 
